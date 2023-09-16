@@ -77,4 +77,30 @@ Apa itu Ilmu Komputer?
 
 * Bangun branding di Linkedin(Portofolioo/CV).
 
-*  
+*  Menjaga hubungan
+
+*  ikut workshop dan course yang sesuai dengan pasiion.
+
+**Semester 5-6**
+
+* Magang
+
+* Jadi pemimpin
+
+* jadi asisten dosen
+
+* ikut student exchange
+
+**Semester 7-8**
+
+* Fokus pada tugas akhir
+
+* cari full time job
+
+* intership
+
+* selesaikan Linked in
+
+3.) Apa program yang mendukung satu Karir?
+
+
