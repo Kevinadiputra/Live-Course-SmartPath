@@ -131,7 +131,7 @@ Apa itu Ilmu Komputer?
 
 * BINAR
 
-**Voluntering dan komunitas**
+**Voluntering dan komunitas:**
 
 * Python ID
 
@@ -142,6 +142,110 @@ Apa itu Ilmu Komputer?
 * Hacktiv8
 
 * GeekHunter Tech Community
+
+**Intership:**
+
+* gojek
+
+* tokopedia
+
+* shoope
+
+* traveloka
+
+* bukalapak
+
+* ruangguru
+
+* telkomindonesia
+
+**Beasiswa:**
+
+* Beasiswa Bank Indonesia
+
+* Beasiswa LPDP
+
+* Beasiswa BCA
+
+* Beasiswa tanoto
+
+* Beasiswa Amerta Trust
+
+* Beasiswa yayasan pendidikan indonesia
+
+**Competition:** 
+
+Tingkat universitas/nasional:
+
+* confest
+
+Tingkat Internasional
+
+* Hackaton
+
+* Topcoder Open
+
+* IEEE Extreme programing competition
+
+4.) Hal yang diperhatikan :
+
+**Hal yang boleh dilakukkan:**
+
+* management waktu yang bijak
+
+* ekplor pelajaran baru
+
+* bangun hubungan
+
+**Hal yang tidak boleh:**  
+
+* menutup diri
+
+* overaktif
+
+* cheat plagiarsm
+
+5.) Cara mencari lingkungan untuk menunjang karir
+
+**Teman**
+
+* Positiv
+
+* repect
+
+* terbuka dan jujur
+
+* toleransi dan pengertian
+
+
+**Organisasi**
+
+* Tanggung Jawab
+
+* Respect satu sama lain
+
+6.) Jika berada di semester akhir tapi belum ada skill
+
+* ambil course dan program bersertifikat
+
+* kumpulkan project
+
+* ambil magang
+
+7.) Apakah judul skripsi dan ipk sangat amat menunjang karir?
+
+**Judul Skripsi**
+
+* Tidak Menunjang, Carilah skill yang sesuai dengan apa yang perusahaan butuhkan
+
+**IPK**
+
+* Ya berpengaruh, karena nilai ipk ynag besar memiliki kesepatan diterima lebih besar.
+
+* lebih terpecaya
+
+
+
 
   
 
