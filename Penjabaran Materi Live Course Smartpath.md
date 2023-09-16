@@ -1,6 +1,7 @@
 # Live Course Smartpath IT/Computer
 
-** 16 September 2023**
+**16 September 2023**
+
 * Mentor: Nirmah
 
 Hal yang akan dibahas adalah: 
@@ -57,6 +58,7 @@ Apa itu Ilmu Komputer?
 
 
 2.) Apa yang harus kita lakukan untuk menyusun karir planner untuk memaksimalkan karir?
+
 **Semester 1-2**
 
 * Fokus membangun personal branding.
