@@ -103,4 +103,46 @@ Apa itu Ilmu Komputer?
 
 3.) Apa program yang mendukung satu Karir?
 
+**kursus dan mentoring yang dapat diambil:**
+
+* DOLab
+
+* progate
+
+* glints academy
+
+**Workshop dan seminar:**
+
+* meetup
+
+* eventbrite indonesia
+
+* id-cert
+
+* techtalk
+
+* indonesia digital economy forum
+
+**Leadership development program:**
+
+* AIESEC
+
+* StudentCatalyst
+
+* BINAR
+
+**Voluntering dan komunitas**
+
+* Python ID
+
+* DevC Indonesia
+
+* Google Developer Group Indonesia
+
+* Hacktiv8
+
+* GeekHunter Tech Community
+
+  
+
 
