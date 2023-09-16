@@ -240,7 +240,7 @@ Tingkat Internasional
 
 **IPK**
 
-* Ya berpengaruh, karena nilai ipk ynag besar memiliki kesepatan diterima lebih besar.
+* Ya berpengaruh, karena nilai ipk yang besar memiliki kesepatan diterima lebih besar.
 
 * lebih terpecaya
 
